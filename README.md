@@ -1,1 +1,1 @@
-# react-native-for-crossplat-app
+react native app project by qu10 november 23
